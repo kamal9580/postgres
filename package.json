@@ -9,5 +9,13 @@
   "dependencies": {
     "@types/pg": "^8.10.2",
     "pg": "^8.11.3"
-  }
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
 }
